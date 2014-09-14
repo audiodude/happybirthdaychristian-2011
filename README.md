@@ -7,3 +7,6 @@ picture of the man himself. Otherwise a countdown page is shown.
 
 The site is written in [Sinatra](http://sinatrarb.org) and uses the jQuery Countdown script
 [written by Keith Wood](http://keith-wood.name/countdown.html).
+
+This site was originally hosted at http://celebrate.christians.birthdaywith.us,
+a domain that was purchased and used only for this purpose.
